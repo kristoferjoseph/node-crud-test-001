@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@architect/functions": "^3.13.9",
-    "@architect/sandbox": "^3.4.0",
+    "@architect/sandbox": "^3.7.4",
     "@begin/data": "^2.0.1",
     "tiny-json-http": "^7.3.0"
   }
